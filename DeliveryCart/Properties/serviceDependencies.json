@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=webapistorage55;AccountKey=SCuSgfcwk3zpinoFPTpy6cVTuz7PTJfkZjoqGQYmiMyOkh9obTKooCwaBbxAEs7uWoU7GzcBJxxNlUFRFRkk1g==;EndpointSuffix=core.windows.net"
+    }
+  }
+}

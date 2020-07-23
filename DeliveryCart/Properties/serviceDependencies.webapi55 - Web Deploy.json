@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroup')]/providers/Microsoft.Storage/storageAccounts/webapistorage55",
+      "type": "storage.azure",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=webapistorage55;AccountKey=SCuSgfcwk3zpinoFPTpy6cVTuz7PTJfkZjoqGQYmiMyOkh9obTKooCwaBbxAEs7uWoU7GzcBJxxNlUFRFRkk1g==;EndpointSuffix=core.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
